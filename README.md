@@ -15,13 +15,15 @@ TypeScript를 활용한 실제 프로젝트 : 블록체인 기술
 
 🛠️ 리포지토리 구성
 projects/
-TypeScript로 구현한 간단한 프로젝트
+
+- TypeScript로 구현한 간단한 프로젝트
 💡 강의 링크
+
 👉 TypeScript for Beginners - Nomad Coders
 https://nomadcoders.co/typescript-for-beginners
 
 
 🙌 학습 목표
-JavaScript 개발 환경에서 TypeScript를 효과적으로 도입하는 방법 익히기
-타입 안정성과 가독성을 높인 코드 작성
-실제 프로젝트에서 TypeScript 활용 능력 강화
+- JavaScript 개발 환경에서 TypeScript를 효과적으로 도입하는 방법 익히기
+- 타입 안정성과 가독성을 높인 코드 작성
+- 실제 프로젝트에서 TypeScript 활용 능력 강화
